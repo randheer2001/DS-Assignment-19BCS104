@@ -1,4 +1,0 @@
-Assignment Slide No:- 42
-Inorder - ZWSB YRA A EU GPJ
-Preorder - A B SWZ R YA UE PGJ
-Postorder - ZWS YAR B EGJPU A
